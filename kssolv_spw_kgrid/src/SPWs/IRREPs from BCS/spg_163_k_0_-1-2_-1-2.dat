@@ -1,0 +1,80 @@
+Space group number 163 , P-31c
+Lattice type : hP
+
+Number of generators : 4
+
+        1                  2                  3                  4          
+  1  0  0     0      0 -1  0     0      0 -1  0     0     -1  0  0     0    
+  0  1  0     0      1 -1  0     0     -1  0  0     0      0 -1  0     0    
+  0  0  1     0      0  0  1     0      0  0 -1   1/2      0  0 -1     0    
+
+
+Number of elements : 12
+
+        1                  2                  3                  4          
+  1  0  0     0      0 -1  0     0     -1  1  0     0      0 -1  0     0    
+  0  1  0     0      1 -1  0     0     -1  0  0     0     -1  0  0     0    
+  0  0  1     0      0  0  1     0      0  0  1     0      0  0 -1   1/2    
+
+        5                  6                  7                  8          
+ -1  1  0     0      1  0  0     0     -1  0  0     0      0  1  0     0    
+  0  1  0     0      1 -1  0     0      0 -1  0     0     -1  1  0     0    
+  0  0 -1   1/2      0  0 -1   1/2      0  0 -1     0      0  0 -1     0    
+
+        9                 10                 11                 12          
+  1 -1  0     0      0  1  0     0      1 -1  0     0     -1  0  0     0    
+  1  0  0     0      1  0  0     0      0 -1  0     0     -1  1  0     0    
+  0  0 -1     0      0  0  1  -1/2      0  0  1  -1/2      0  0  1  -1/2    
+
+
+k-vector 
+  in primitive basis :                        0.000 -0.500 -0.500
+  in standard dual basis :                    0.000 -0.500 -0.500
+The user label for this k-vector is:          L
+The standard label for this k-vector is:      L
+
+
+The star of the k-vector has the following 3 arms :
+  0.000 -0.500 -0.500
+ -0.500  0.500 -0.500
+  0.500  0.000 -0.500
+
+
+The little group of the k-vector has the following 4
+elements as translation coset representatives :
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  1  0     0     -1  0  0     0      1 -1  0     0    
+  0  1  0     0      0  1  0     0      0 -1  0     0      0 -1  0     0    
+  0  0  1     0      0  0 -1   1/2      0  0 -1     0      0  0  1  -1/2    
+
+
+The space group has the following 3 elements as
+coset representatives relative to the little group :
+
+        1                  2                  3          
+  1  0  0     0      0 -1  0     0     -1  1  0     0    
+  0  1  0     0      1 -1  0     0     -1  0  0     0    
+  0  0  1     0      0  0  1     0      0  0  1     0    
+
+
+The little group of the k-vector has  1  allowed irreps.
+The matrices, corresponding to all of the little group elements are :
+
+ Irrep L_1 ,  dimension 2
+             1                             2                
+(1.000,  0.0) (0.000,  0.0)   (1.000,  0.0) (0.000,  0.0)   
+(0.000,  0.0) (1.000,  0.0)   (0.000,  0.0) (1.000,180.0)   
+
+             3                             4                
+(0.000,  0.0) (1.000,  0.0)   (0.000,  0.0) (1.000,180.0)   
+(1.000,  0.0) (0.000,  0.0)   (1.000,  0.0) (0.000,  0.0)   
+
+
+General position characters:
+Gen Pos:      1             2             3             4             5             6             7             8             9             10             11             12             
+L_1      (6.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) 
+
+
+Physically-irreducible representations:
+  *L_1

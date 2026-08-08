@@ -1,0 +1,81 @@
+Space group number 16 , P222
+Lattice type : oP
+
+Number of generators : 3
+
+        1                  2                  3          
+  1  0  0     0     -1  0  0     0     -1  0  0     0    
+  0  1  0     0      0 -1  0     0      0  1  0     0    
+  0  0  1     0      0  0  1     0      0  0 -1     0    
+
+
+Number of elements : 4
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0     -1  0  0     0      1  0  0     0    
+  0  1  0     0      0 -1  0     0      0  1  0     0      0 -1  0     0    
+  0  0  1     0      0  0  1     0      0  0 -1     0      0  0 -1     0    
+
+
+k-vector 
+  in primitive basis :                        0.000 -0.500  0.000
+  in standard dual basis :                    0.000 -0.500  0.000
+The user label for this k-vector is:          Y
+The standard label for this k-vector is:      Y
+
+
+The star of the k-vector has the following 1 arms :
+  0.000 -0.500  0.000
+
+
+The little group of the k-vector has the following 4
+elements as translation coset representatives :
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0     -1  0  0     0      1  0  0     0    
+  0  1  0     0      0 -1  0     0      0  1  0     0      0 -1  0     0    
+  0  0  1     0      0  0  1     0      0  0 -1     0      0  0 -1     0    
+
+
+The space group has the following 1 elements as
+coset representatives relative to the little group :
+
+        1          
+  1  0  0     0    
+  0  1  0     0    
+  0  0  1     0    
+
+
+The little group of the k-vector has  4  allowed irreps.
+The matrices, corresponding to all of the little group elements are :
+
+ Irrep Y_1 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,  0.0)   (1.000,  0.0)   (1.000,  0.0)   
+
+
+ Irrep Y_2 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,  0.0)   (1.000,180.0)   (1.000,180.0)   
+
+
+ Irrep Y_4 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,180.0)   (1.000,  0.0)   (1.000,180.0)   
+
+
+ Irrep Y_3 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,180.0)   (1.000,180.0)   (1.000,  0.0)   
+
+
+General position characters:
+Gen Pos:      1             2             3             4             
+Y_1      (1.000,  0.0) (1.000,  0.0) (1.000,  0.0) (1.000,  0.0) 
+Y_2      (1.000,  0.0) (1.000,  0.0) (1.000,180.0) (1.000,180.0) 
+Y_4      (1.000,  0.0) (1.000,180.0) (1.000,  0.0) (1.000,180.0) 
+Y_3      (1.000,  0.0) (1.000,180.0) (1.000,180.0) (1.000,  0.0) 
+
+
+Physically-irreducible representations:
+  *Y_1  *Y_2  *Y_4  *Y_3

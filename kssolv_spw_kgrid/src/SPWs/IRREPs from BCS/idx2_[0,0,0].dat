@@ -1,0 +1,69 @@
+Space group number 2 , P-1
+Lattice type : aP
+
+Number of generators : 2
+
+        1                  2          
+  1  0  0     0     -1  0  0     0    
+  0  1  0     0      0 -1  0     0    
+  0  0  1     0      0  0 -1     0    
+
+
+Number of elements : 2
+
+        1                  2          
+  1  0  0     0     -1  0  0     0    
+  0  1  0     0      0 -1  0     0    
+  0  0  1     0      0  0 -1     0    
+
+
+k-vector 
+  in centred dual (conventional) basis :      0.000  0.000  0.000
+  in standard dual basis :                    0.000  0.000  0.000
+The user label for this k-vector is:          GM
+The standard label for this k-vector is:      GM
+
+
+The star of the k-vector has the following 1 arms :
+  0.000  0.000  0.000
+
+
+The little group of the k-vector has the following 2
+elements as translation coset representatives :
+
+        1                  2          
+  1  0  0     0     -1  0  0     0    
+  0  1  0     0      0 -1  0     0    
+  0  0  1     0      0  0 -1     0    
+
+
+The space group has the following 1 elements as
+coset representatives relative to the little group :
+
+        1          
+  1  0  0     0    
+  0  1  0     0    
+  0  0  1     0    
+
+
+The little group of the k-vector has  2  allowed irreps.
+The matrices, corresponding to all of the little group elements are :
+
+ Irrep GM_1+ ,  dimension 1
+      1               2         
+(1.000,  0.0)   (1.000,  0.0)   
+
+
+ Irrep GM_1- ,  dimension 1
+      1               2         
+(1.000,  0.0)   (1.000,180.0)   
+
+
+General position characters:
+Gen Pos:      1             2             
+GM_1+      (1.000,  0.0) (1.000,  0.0) 
+GM_1-      (1.000,  0.0) (1.000,180.0) 
+
+
+Physically-irreducible representations:
+  *GM_1+  *GM_1-

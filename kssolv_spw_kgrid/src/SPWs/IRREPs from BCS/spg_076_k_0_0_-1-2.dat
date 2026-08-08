@@ -1,0 +1,81 @@
+Space group number 76 , P4_1
+Lattice type : tP
+
+Number of generators : 3
+
+        1                  2                  3          
+  1  0  0     0     -1  0  0     0      0 -1  0     0    
+  0  1  0     0      0 -1  0     0      1  0  0     0    
+  0  0  1     0      0  0  1   1/2      0  0  1   1/4    
+
+
+Number of elements : 4
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      0 -1  0     0      0  1  0     0    
+  0  1  0     0      0 -1  0     0      1  0  0     0     -1  0  0     0    
+  0  0  1     0      0  0  1   1/2      0  0  1   1/4      0  0  1   3/4    
+
+
+k-vector 
+  in primitive basis :                        0.000  0.000 -0.500
+  in standard dual basis :                    0.000  0.000 -0.500
+The user label for this k-vector is:          LD
+The standard label for this k-vector is:      LD
+
+
+The star of the k-vector has the following 1 arms :
+  0.000  0.000 -0.500
+
+
+The little group of the k-vector has the following 4
+elements as translation coset representatives :
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      0 -1  0     0      0  1  0     0    
+  0  1  0     0      0 -1  0     0      1  0  0     0     -1  0  0     0    
+  0  0  1     0      0  0  1   1/2      0  0  1   1/4      0  0  1   3/4    
+
+
+The space group has the following 1 elements as
+coset representatives relative to the little group :
+
+        1          
+  1  0  0     0    
+  0  1  0     0    
+  0  0  1     0    
+
+
+The little group of the k-vector has  4  allowed irreps.
+The matrices, corresponding to all of the little group elements are :
+
+ Irrep LD_1 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000, 90.0)   (1.000, 45.0)   (1.000,135.0)   
+
+
+ Irrep LD_2 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000, 90.0)   (1.000,225.0)   (1.000,315.0)   
+
+
+ Irrep LD_2 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,270.0)   (1.000,135.0)   (1.000, 45.0)   
+
+
+ Irrep LD_1 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,270.0)   (1.000,315.0)   (1.000,225.0)   
+
+
+General position characters:
+Gen Pos:      1             2             3             4             
+LD_1      (1.000,  0.0) (1.000, 90.0) (1.000, 45.0) (1.000,135.0) 
+LD_2      (1.000,  0.0) (1.000, 90.0) (1.000,225.0) (1.000,315.0) 
+LD_2      (1.000,  0.0) (1.000,270.0) (1.000,135.0) (1.000, 45.0) 
+LD_1      (1.000,  0.0) (1.000,270.0) (1.000,315.0) (1.000,225.0) 
+
+
+Physically-irreducible representations:
+  *LD_1+*LD_1  *LD_2+*LD_2

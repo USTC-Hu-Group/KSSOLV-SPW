@@ -1,0 +1,66 @@
+Space group number 42 , Fmm2
+Lattice type : oF
+
+Number of generators : 3
+
+        1                  2                  3          
+  1  0  0     0     -1  0  0     0      1  0  0     0    
+  0  1  0     0      0 -1  0     0      0 -1  0     0    
+  0  0  1     0      0  0  1     0      0  0  1     0    
+
+
+Number of elements : 4
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      1  0  0     0     -1  0  0     0    
+  0  1  0     0      0 -1  0     0      0 -1  0     0      0  1  0     0    
+  0  0  1     0      0  0  1     0      0  0  1     0      0  0  1     0    
+
+
+k-vector 
+  in primitive basis :                        0.000 -0.500  0.000
+  in standard dual basis :                   -0.500  0.500 -0.500
+The user label for this k-vector is:          GP
+The standard label for this k-vector is:      GP
+
+
+The star of the k-vector has the following 4 arms :
+ -0.500  0.500 -0.500
+  0.500 -0.500 -0.500
+ -0.500 -0.500 -0.500
+  0.500  0.500 -0.500
+
+
+The little group of the k-vector has the following 1
+elements as translation coset representatives :
+
+        1          
+  1  0  0     0    
+  0  1  0     0    
+  0  0  1     0    
+
+
+The space group has the following 4 elements as
+coset representatives relative to the little group :
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      1  0  0     0     -1  0  0     0    
+  0  1  0     0      0 -1  0     0      0 -1  0     0      0  1  0     0    
+  0  0  1     0      0  0  1     0      0  0  1     0      0  0  1     0    
+
+
+The little group of the k-vector has  1  allowed irreps.
+The matrices, corresponding to all of the little group elements are :
+
+ Irrep GP_1 ,  dimension 1
+      1         
+(1.000,  0.0)   
+
+
+General position characters:
+Gen Pos:      1             2             3             4             
+GP_1      (4.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) 
+
+
+Physically-irreducible representations:
+  *GP_1

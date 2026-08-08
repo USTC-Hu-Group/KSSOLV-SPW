@@ -1,0 +1,87 @@
+Space group number 97 , I422
+Lattice type : tI
+
+Number of generators : 4
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      0 -1  0     0     -1  0  0     0    
+  0  1  0     0      0 -1  0     0      1  0  0     0      0  1  0     0    
+  0  0  1     0      0  0  1     0      0  0  1     0      0  0 -1     0    
+
+
+Number of elements : 8
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      0 -1  0     0      0  1  0     0    
+  0  1  0     0      0 -1  0     0      1  0  0     0     -1  0  0     0    
+  0  0  1     0      0  0  1     0      0  0  1     0      0  0  1     0    
+
+        5                  6                  7                  8          
+ -1  0  0     0      1  0  0     0      0  1  0     0      0 -1  0     0    
+  0  1  0     0      0 -1  0     0      1  0  0     0     -1  0  0     0    
+  0  0 -1     0      0  0 -1     0      0  0 -1     0      0  0 -1     0    
+
+
+k-vector 
+  in primitive basis :                        0.000  0.000 -0.500
+  in standard dual basis :                   -0.500 -0.500  0.000
+The user label for this k-vector is:          X
+The standard label for this k-vector is:      X
+
+
+The star of the k-vector has the following 2 arms :
+ -0.500 -0.500  0.000
+ -0.500  0.500  0.000
+
+
+The little group of the k-vector has the following 4
+elements as translation coset representatives :
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      0  1  0     0      0 -1  0     0    
+  0  1  0     0      0 -1  0     0      1  0  0     0     -1  0  0     0    
+  0  0  1     0      0  0  1     0      0  0 -1     0      0  0 -1     0    
+
+
+The space group has the following 2 elements as
+coset representatives relative to the little group :
+
+        1                  2          
+  1  0  0     0      0 -1  0     0    
+  0  1  0     0      1  0  0     0    
+  0  0  1     0      0  0  1     0    
+
+
+The little group of the k-vector has  4  allowed irreps.
+The matrices, corresponding to all of the little group elements are :
+
+ Irrep X_1 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,  0.0)   (1.000,  0.0)   (1.000,  0.0)   
+
+
+ Irrep X_2 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,  0.0)   (1.000,180.0)   (1.000,180.0)   
+
+
+ Irrep X_3 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,180.0)   (1.000,  0.0)   (1.000,180.0)   
+
+
+ Irrep X_4 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,180.0)   (1.000,180.0)   (1.000,  0.0)   
+
+
+General position characters:
+Gen Pos:      1             2             3             4             5             6             7             8             
+X_1      (2.000,  0.0) (2.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (2.000,  0.0) (2.000,  0.0) 
+X_2      (2.000,  0.0) (2.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (2.000,180.0) (2.000,180.0) 
+X_3      (2.000,  0.0) (2.000,180.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) 
+X_4      (2.000,  0.0) (2.000,180.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) 
+
+
+Physically-irreducible representations:
+  *X_1  *X_2  *X_3  *X_4

@@ -1,0 +1,70 @@
+Space group number 40 , Ama2
+Lattice type : oA
+
+Number of generators : 3
+
+        1                  2                  3          
+  1  0  0     0     -1  0  0     0      1  0  0   1/2    
+  0  1  0     0      0 -1  0     0      0 -1  0     0    
+  0  0  1     0      0  0  1     0      0  0  1     0    
+
+
+Number of elements : 4
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      1  0  0   1/2     -1  0  0   1/2    
+  0  1  0     0      0 -1  0     0      0 -1  0     0      0  1  0     0    
+  0  0  1     0      0  0  1     0      0  0  1     0      0  0  1     0    
+
+
+k-vector 
+  in centred dual (conventional) basis :     -0.500 -0.500 -0.500
+  in standard dual basis :                   -0.500 -0.500 -0.500
+The user label for this k-vector is:          Q
+The standard label for this k-vector is:      Q
+
+
+The star of the k-vector has the following 2 arms :
+ -0.500 -0.500 -0.500
+  0.500  0.500 -0.500
+
+
+The little group of the k-vector has the following 2
+elements as translation coset representatives :
+
+        1                  2          
+  1  0  0     0     -1  0  0   1/2    
+  0  1  0     0      0  1  0     0    
+  0  0  1     0      0  0  1     0    
+
+
+The space group has the following 2 elements as
+coset representatives relative to the little group :
+
+        1                  2          
+  1  0  0     0     -1  0  0     0    
+  0  1  0     0      0 -1  0     0    
+  0  0  1     0      0  0  1     0    
+
+
+The little group of the k-vector has  2  allowed irreps.
+The matrices, corresponding to all of the little group elements are :
+
+ Irrep Q_1 ,  dimension 1
+      1               2         
+(1.000,  0.0)   (1.000,  0.0)   
+
+
+ Irrep Q_2 ,  dimension 1
+      1               2         
+(1.000,  0.0)   (1.000,180.0)   
+
+
+General position characters:
+Gen Pos:      1             2             3             4             
+Q_1      (2.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) 
+Q_2      (2.000,  0.0) (0.000,  0.0) (0.000,  0.0) (0.000,  0.0) 
+
+
+Physically-irreducible representations:
+  *Q_1  *Q_2

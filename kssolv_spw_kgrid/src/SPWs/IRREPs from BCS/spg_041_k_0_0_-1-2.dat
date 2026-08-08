@@ -1,0 +1,81 @@
+Space group number 41 , Aba2
+Lattice type : oA
+
+Number of generators : 3
+
+        1                  2                  3          
+  1  0  0     0     -1  0  0     0      1  0  0   1/2    
+  0  1  0     0      0 -1  0     0      0 -1  0   1/2    
+  0  0  1     0      0  0  1     0      0  0  1     0    
+
+
+Number of elements : 4
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      1  0  0   1/2     -1  0  0   1/2    
+  0  1  0     0      0 -1  0     0      0 -1  0   1/2      0  1  0   1/2    
+  0  0  1     0      0  0  1     0      0  0  1     0      0  0  1     0    
+
+
+k-vector 
+  in centred dual (conventional) basis :      0.000  0.000 -0.500
+  in standard dual basis :                    0.000  0.000 -0.500
+The user label for this k-vector is:          SM
+The standard label for this k-vector is:      SM
+
+
+The star of the k-vector has the following 1 arms :
+  0.000  0.000 -0.500
+
+
+The little group of the k-vector has the following 4
+elements as translation coset representatives :
+
+        1                  2                  3                  4          
+  1  0  0     0     -1  0  0     0      1  0  0   1/2     -1  0  0   1/2    
+  0  1  0     0      0 -1  0     0      0 -1  0   1/2      0  1  0   1/2    
+  0  0  1     0      0  0  1     0      0  0  1     0      0  0  1     0    
+
+
+The space group has the following 1 elements as
+coset representatives relative to the little group :
+
+        1          
+  1  0  0     0    
+  0  1  0     0    
+  0  0  1     0    
+
+
+The little group of the k-vector has  4  allowed irreps.
+The matrices, corresponding to all of the little group elements are :
+
+ Irrep SM_1 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,  0.0)   (1.000,  0.0)   (1.000,  0.0)   
+
+
+ Irrep SM_2 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,  0.0)   (1.000,180.0)   (1.000,180.0)   
+
+
+ Irrep SM_3 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,180.0)   (1.000,  0.0)   (1.000,180.0)   
+
+
+ Irrep SM_4 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,180.0)   (1.000,180.0)   (1.000,  0.0)   
+
+
+General position characters:
+Gen Pos:      1             2             3             4             
+SM_1      (1.000,  0.0) (1.000,  0.0) (1.000,  0.0) (1.000,  0.0) 
+SM_2      (1.000,  0.0) (1.000,  0.0) (1.000,180.0) (1.000,180.0) 
+SM_3      (1.000,  0.0) (1.000,180.0) (1.000,  0.0) (1.000,180.0) 
+SM_4      (1.000,  0.0) (1.000,180.0) (1.000,180.0) (1.000,  0.0) 
+
+
+Physically-irreducible representations:
+  *SM_1+*SM_1  *SM_2+*SM_2  *SM_3+*SM_3  *SM_4+*SM_4

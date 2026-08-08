@@ -1,0 +1,121 @@
+Space group number 171 , P6_2
+Lattice type : hP
+
+Number of generators : 3
+
+        1                  2                  3          
+  1  0  0     0      0 -1  0     0     -1  0  0     0    
+  0  1  0     0      1 -1  0     0      0 -1  0     0    
+  0  0  1     0      0  0  1   2/3      0  0  1     0    
+
+
+Number of elements : 6
+
+        1                  2                  3                  4          
+  1  0  0     0      0 -1  0     0     -1  1  0     0     -1  0  0     0    
+  0  1  0     0      1 -1  0     0     -1  0  0     0      0 -1  0     0    
+  0  0  1     0      0  0  1   2/3      0  0  1   4/3      0  0  1     0    
+
+        5                  6          
+  0  1  0     0      1 -1  0     0    
+ -1  1  0     0      1  0  0     0    
+  0  0  1   2/3      0  0  1   4/3    
+
+
+k-vector 
+  in primitive basis :                        0.000  0.000 -0.500
+  in standard dual basis :                    0.000  0.000 -0.500
+The user label for this k-vector is:          DT
+The standard label for this k-vector is:      DT
+
+
+The star of the k-vector has the following 1 arms :
+  0.000  0.000 -0.500
+
+
+The little group of the k-vector has the following 6
+elements as translation coset representatives :
+
+        1                  2                  3                  4          
+  1  0  0     0      0 -1  0     0     -1  1  0     0     -1  0  0     0    
+  0  1  0     0      1 -1  0     0     -1  0  0     0      0 -1  0     0    
+  0  0  1     0      0  0  1   2/3      0  0  1   4/3      0  0  1     0    
+
+        5                  6          
+  0  1  0     0      1 -1  0     0    
+ -1  1  0     0      1  0  0     0    
+  0  0  1   2/3      0  0  1   4/3    
+
+
+The space group has the following 1 elements as
+coset representatives relative to the little group :
+
+        1          
+  1  0  0     0    
+  0  1  0     0    
+  0  0  1     0    
+
+
+The little group of the k-vector has  6  allowed irreps.
+The matrices, corresponding to all of the little group elements are :
+
+ Irrep DT_1 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,120.0)   (1.000,240.0)   (1.000,  0.0)   
+
+      5               6         
+(1.000,120.0)   (1.000,240.0)   
+
+
+ Irrep DT_2 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,120.0)   (1.000,240.0)   (1.000,180.0)   
+
+      5               6         
+(1.000,300.0)   (1.000, 60.0)   
+
+
+ Irrep DT_1 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,240.0)   (1.000,120.0)   (1.000,  0.0)   
+
+      5               6         
+(1.000,240.0)   (1.000,120.0)   
+
+
+ Irrep DT_4 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,240.0)   (1.000,120.0)   (1.000,180.0)   
+
+      5               6         
+(1.000, 60.0)   (1.000,300.0)   
+
+
+ Irrep DT_5 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,  0.0)   (1.000,  0.0)   (1.000,  0.0)   
+
+      5               6         
+(1.000,  0.0)   (1.000,  0.0)   
+
+
+ Irrep DT_6 ,  dimension 1
+      1               2               3               4         
+(1.000,  0.0)   (1.000,  0.0)   (1.000,  0.0)   (1.000,180.0)   
+
+      5               6         
+(1.000,180.0)   (1.000,180.0)   
+
+
+General position characters:
+Gen Pos:      1             2             3             4             5             6             
+DT_1      (1.000,  0.0) (1.000,120.0) (1.000,240.0) (1.000,  0.0) (1.000,120.0) (1.000,240.0) 
+DT_2      (1.000,  0.0) (1.000,120.0) (1.000,240.0) (1.000,180.0) (1.000,300.0) (1.000, 60.0) 
+DT_1      (1.000,  0.0) (1.000,240.0) (1.000,120.0) (1.000,  0.0) (1.000,240.0) (1.000,120.0) 
+DT_4      (1.000,  0.0) (1.000,240.0) (1.000,120.0) (1.000,180.0) (1.000, 60.0) (1.000,300.0) 
+DT_5      (1.000,  0.0) (1.000,  0.0) (1.000,  0.0) (1.000,  0.0) (1.000,  0.0) (1.000,  0.0) 
+DT_6      (1.000,  0.0) (1.000,  0.0) (1.000,  0.0) (1.000,180.0) (1.000,180.0) (1.000,180.0) 
+
+
+Physically-irreducible representations:
+  *DT_1+*DT_1  *DT_2+*DT_4  *DT_5  *DT_6
